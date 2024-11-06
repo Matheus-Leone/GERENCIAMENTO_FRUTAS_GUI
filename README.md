@@ -5,7 +5,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 ## 🚀 Começando
 
 
-*Crie um projeto java de Gerenciamento de Frutas que utilize OS CONHECIMENTOS SOBRE O USO DE ARRAY E DE INTERFACES;
+*Crie um projeto java de Gerenciamento de Frutas que utilize os conhecimentos sobre o uso de array e de interfaces;
 
 *Para o projeto funcionar, são necessário as funções:
 
@@ -19,7 +19,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 [Console do Exercício Acima]
 
-(![BibliotecadeConversões](GerenciamentoFrutas.png))
+(![BibliotecadeConversões](InterfaceGUI.jpg))
 
 ### 📋 Pré-requisitos
 
