@@ -7,7 +7,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *Crie um projeto java de Gerenciamento de Frutas que utilize os conhecimentos sobre o uso de array e de interfaces;
 
-*Para o projeto funcionar, são necessário as funções:
+*Como requisito do projeto, são necessário as funções:
 
 *ADICIONAR
 
