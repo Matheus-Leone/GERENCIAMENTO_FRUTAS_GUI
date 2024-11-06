@@ -17,7 +17,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *DEMONSTRAR
 
-[Console do Exercício Acima]
+[Interface do Exercício Acima]
 
 (![BibliotecadeConversões](InterfaceGUI.jpg))
 
